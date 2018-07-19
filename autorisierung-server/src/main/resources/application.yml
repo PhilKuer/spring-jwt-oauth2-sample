@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+uaa:
+  clientId: OrdixSampleID
+  secret: ordixSecret
+  jwt-signing-key: 123
